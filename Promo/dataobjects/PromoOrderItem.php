@@ -10,8 +10,5 @@
  */
 class PromoOrderItem extends StoreOrderItem
 {
-    /**
-     * @var float
-     */
     public $promotion_discount;
 }

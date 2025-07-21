@@ -10,9 +10,6 @@
  */
 class PromoCartEntry extends StoreCartEntry
 {
-    /**
-     * @var float
-     */
     public $promotion_discount;
 
     /**
